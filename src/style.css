@@ -5,9 +5,7 @@ body {
 
 div {
   box-sizing: border-box;
-  border-width: 1px;
-  border-style: solid;
-  border-color: #e75551;
+  border: 1px solid #e75551;
   padding: 10px;
 }
 
