@@ -1,9 +1,9 @@
-body {
+.page {
   background-color: black;
   padding: 12px;
 }
 
-div {
+.container {
   box-sizing: border-box;
   border: 1px solid #e75551;
   padding: 10px;
